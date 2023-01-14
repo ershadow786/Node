@@ -19,6 +19,7 @@ mongoose
     console.log("Database is connected! Listening to localhost 5000");
   })
   .catch((err) => console.log(err));
+  console.log("hi")
 
 
   // mongodb+srv://ntnrjpt:<password>@clustertemp.gtbestn.mongodb.net/?retryWrites=true&w=majority
